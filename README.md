@@ -2,7 +2,7 @@
 
 I build the full trust pipeline for **biometric identity** — from the ECG signal and the ML model that reads it, through cryptographic keys that never touch disk, to the OIDC/SAML tokens that prove it. Most teams need three specialists for that seam; I've shipped all three in production.
 
-🔭 Core engineer at **Tenbeo** (ECG-biometric authentication) — identity, ML, and desktop.
+🔭 Core engineer at an ECG-biometric authentication startup — identity, ML, and desktop.
 🌍 EU citizen · remote across the EU · open to AI / full-stack / identity-security roles.
 
 **🔐 Identity & security** — OIDC/SAML identity provider (node-oidc-provider), biometric proof-of-possession (DPoP-style, RFC 9449), 3-shard secp256k1 key derivation, Microsoft Entra federation, Azure (Key Vault, Container Apps).
